@@ -1,7 +1,7 @@
 {
-    "total": 1,
+    "total": 2,
     "Easy": 0,
-    "Medium": 1,
+    "Medium": 2,
     "Hard": 0,
     "streak": 1,
     "last_date": "2026-05-19",
@@ -11,6 +11,12 @@
             "difficulty": "Medium",
             "file": "Medium/142._Linked_List_Cycle_II.py",
             "timestamp": "2026-05-19 23:36"
+        },
+        {
+            "name": "142. Linked List Cycle II",
+            "difficulty": "Medium",
+            "file": "Medium/142._Linked_List_Cycle_II.py",
+            "timestamp": "2026-05-19 23:40"
         }
     ]
 }
