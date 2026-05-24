@@ -1,10 +1,10 @@
 {
-    "total": 2,
-    "Easy": 1,
+    "total": 3,
+    "Easy": 2,
     "Medium": 1,
     "Hard": 0,
-    "streak": 2,
-    "last_date": "2026-05-20",
+    "streak": 1,
+    "last_date": "2026-05-24",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -17,6 +17,12 @@
             "difficulty": "Easy",
             "file": "Easy/141._Linked_List_Cycle.py",
             "timestamp": "2026-05-20 19:57"
+        },
+        {
+            "name": "234. Palindrome Linked List",
+            "difficulty": "Easy",
+            "file": "Easy/234._Palindrome_Linked_List.py",
+            "timestamp": "2026-05-24 14:52"
         }
     ]
 }
