@@ -1,10 +1,10 @@
 {
-    "total": 3,
+    "total": 4,
     "Easy": 2,
-    "Medium": 1,
+    "Medium": 2,
     "Hard": 0,
     "streak": 1,
-    "last_date": "2026-05-24",
+    "last_date": "2026-05-27",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -23,6 +23,12 @@
             "difficulty": "Easy",
             "file": "Easy/234._Palindrome_Linked_List.py",
             "timestamp": "2026-05-24 14:52"
+        },
+        {
+            "name": "167. Two Sum II - Input Array Is Sorted",
+            "difficulty": "Medium",
+            "file": "Medium/167._Two_Sum_II_-_Input_Array_Is_Sorted.py",
+            "timestamp": "2026-05-27 19:20"
         }
     ]
 }
