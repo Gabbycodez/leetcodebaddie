@@ -1,7 +1,7 @@
 {
-    "total": 4,
+    "total": 5,
     "Easy": 2,
-    "Medium": 2,
+    "Medium": 3,
     "Hard": 0,
     "streak": 1,
     "last_date": "2026-05-27",
@@ -29,6 +29,12 @@
             "difficulty": "Medium",
             "file": "Medium/167._Two_Sum_II_-_Input_Array_Is_Sorted.py",
             "timestamp": "2026-05-27 19:20"
+        },
+        {
+            "name": "75. Sort Colors",
+            "difficulty": "Medium",
+            "file": "Medium/75._Sort_Colors.py",
+            "timestamp": "2026-05-27 20:38"
         }
     ]
 }
