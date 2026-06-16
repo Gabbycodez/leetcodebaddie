@@ -1,10 +1,10 @@
 {
-    "total": 5,
-    "Easy": 2,
+    "total": 6,
+    "Easy": 3,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
-    "last_date": "2026-05-27",
+    "last_date": "2026-06-16",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -35,6 +35,12 @@
             "difficulty": "Medium",
             "file": "Medium/75._Sort_Colors.py",
             "timestamp": "2026-05-27 20:38"
+        },
+        {
+            "name": "217. Contains Duplicate",
+            "difficulty": "Easy",
+            "file": "Easy/217._Contains_Duplicate.py",
+            "timestamp": "2026-06-16 18:40"
         }
     ]
 }
