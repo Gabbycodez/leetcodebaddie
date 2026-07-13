@@ -1,10 +1,10 @@
 {
-    "total": 6,
-    "Easy": 3,
+    "total": 7,
+    "Easy": 4,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
-    "last_date": "2026-06-16",
+    "last_date": "2026-07-12",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -41,6 +41,12 @@
             "difficulty": "Easy",
             "file": "Easy/217._Contains_Duplicate.py",
             "timestamp": "2026-06-16 18:40"
+        },
+        {
+            "name": "383. Ransom Note",
+            "difficulty": "Easy",
+            "file": "Easy/383._Ransom_Note.py",
+            "timestamp": "2026-07-12 20:49"
         }
     ]
 }

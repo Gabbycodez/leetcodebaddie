@@ -8,3 +8,4 @@
 - 167. Two Sum II - Input Array Is Sorted | Medium | 2026-05-27
 - 75. Sort Colors | Medium | 2026-05-27
 - 217. Contains Duplicate | Easy | 2026-06-16
+- 383. Ransom Note | Easy | 2026-07-12
