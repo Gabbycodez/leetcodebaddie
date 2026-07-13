@@ -1,6 +1,6 @@
 {
-    "total": 7,
-    "Easy": 4,
+    "total": 8,
+    "Easy": 5,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
@@ -47,6 +47,12 @@
             "difficulty": "Easy",
             "file": "Easy/383._Ransom_Note.py",
             "timestamp": "2026-07-12 20:49"
+        },
+        {
+            "name": "202. Happy Number",
+            "difficulty": "Easy",
+            "file": "Easy/202._Happy_Number.py",
+            "timestamp": "2026-07-12 20:51"
         }
     ]
 }
