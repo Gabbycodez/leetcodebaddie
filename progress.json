@@ -1,6 +1,6 @@
 {
-    "total": 9,
-    "Easy": 6,
+    "total": 10,
+    "Easy": 7,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
@@ -59,6 +59,12 @@
             "difficulty": "Easy",
             "file": "Easy/389._Find_the_difference.py",
             "timestamp": "2026-07-17 17:28"
+        },
+        {
+            "name": "242. Valid Anagram",
+            "difficulty": "Easy",
+            "file": "Easy/242._Valid_Anagram.py",
+            "timestamp": "2026-07-17 18:15"
         }
     ]
 }
