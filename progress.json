@@ -1,6 +1,6 @@
 {
-    "total": 10,
-    "Easy": 7,
+    "total": 11,
+    "Easy": 8,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
@@ -65,6 +65,12 @@
             "difficulty": "Easy",
             "file": "Easy/242._Valid_Anagram.py",
             "timestamp": "2026-07-17 18:15"
+        },
+        {
+            "name": "1. Two sum",
+            "difficulty": "Easy",
+            "file": "Easy/1._Two_sum.py",
+            "timestamp": "2026-07-17 18:34"
         }
     ]
 }
