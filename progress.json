@@ -1,10 +1,10 @@
 {
-    "total": 8,
-    "Easy": 5,
+    "total": 9,
+    "Easy": 6,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
-    "last_date": "2026-07-12",
+    "last_date": "2026-07-17",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -53,6 +53,12 @@
             "difficulty": "Easy",
             "file": "Easy/202._Happy_Number.py",
             "timestamp": "2026-07-12 20:51"
+        },
+        {
+            "name": "389. Find the difference",
+            "difficulty": "Easy",
+            "file": "Easy/389._Find_the_difference.py",
+            "timestamp": "2026-07-17 17:28"
         }
     ]
 }
