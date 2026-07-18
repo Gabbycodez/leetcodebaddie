@@ -1,10 +1,10 @@
 {
-    "total": 11,
-    "Easy": 8,
+    "total": 12,
+    "Easy": 9,
     "Medium": 3,
     "Hard": 0,
-    "streak": 1,
-    "last_date": "2026-07-17",
+    "streak": 2,
+    "last_date": "2026-07-18",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -71,6 +71,12 @@
             "difficulty": "Easy",
             "file": "Easy/1._Two_sum.py",
             "timestamp": "2026-07-17 18:34"
+        },
+        {
+            "name": "9 Palindrome Number",
+            "difficulty": "Easy",
+            "file": "Easy/9_Palindrome_Number.py",
+            "timestamp": "2026-07-18 13:12"
         }
     ]
 }
