@@ -14,3 +14,4 @@
 - 242. Valid Anagram | Easy | 2026-07-17
 - 1. Two sum | Easy | 2026-07-17
 - 9 Palindrome Number | Easy | 2026-07-18
+- 206. Reverse Linked List | Easy | 2026-07-20

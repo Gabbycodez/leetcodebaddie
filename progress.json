@@ -1,10 +1,10 @@
 {
-    "total": 12,
-    "Easy": 9,
+    "total": 13,
+    "Easy": 10,
     "Medium": 3,
     "Hard": 0,
-    "streak": 2,
-    "last_date": "2026-07-18",
+    "streak": 1,
+    "last_date": "2026-07-20",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -77,6 +77,12 @@
             "difficulty": "Easy",
             "file": "Easy/9_Palindrome_Number.py",
             "timestamp": "2026-07-18 13:12"
+        },
+        {
+            "name": "206. Reverse Linked List",
+            "difficulty": "Easy",
+            "file": "Easy/206._Reverse_Linked_List.py",
+            "timestamp": "2026-07-20 00:22"
         }
     ]
 }
