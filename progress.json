@@ -1,10 +1,10 @@
 {
-    "total": 13,
-    "Easy": 10,
+    "total": 14,
+    "Easy": 11,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
-    "last_date": "2026-07-20",
+    "last_date": "2026-08-05",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -83,6 +83,12 @@
             "difficulty": "Easy",
             "file": "Easy/206._Reverse_Linked_List.py",
             "timestamp": "2026-07-20 00:22"
+        },
+        {
+            "name": "657. Robot Return to Origin",
+            "difficulty": "Easy",
+            "file": "Easy/657._Robot_Return_to_Origin.py",
+            "timestamp": "2026-08-05 12:06"
         }
     ]
 }
