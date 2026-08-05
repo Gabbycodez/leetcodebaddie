@@ -1,6 +1,6 @@
 {
-    "total": 15,
-    "Easy": 12,
+    "total": 16,
+    "Easy": 13,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
@@ -95,6 +95,12 @@
             "difficulty": "Easy",
             "file": "Easy/1475._Final_Prices_With_a_Special_Discount_in_a_Shop.py",
             "timestamp": "2026-08-05 15:29"
+        },
+        {
+            "name": "35. Search Insert Position",
+            "difficulty": "Easy",
+            "file": "Easy/35._Search_Insert_Position.py",
+            "timestamp": "2026-08-05 16:04"
         }
     ]
 }

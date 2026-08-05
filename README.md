@@ -17,3 +17,4 @@
 - 206. Reverse Linked List | Easy | 2026-07-20
 - 657. Robot Return to Origin | Easy | 2026-08-05
 - 1475. Final Prices With a Special Discount in a Shop | Easy | 2026-08-05
+- 35. Search Insert Position | Easy | 2026-08-05
