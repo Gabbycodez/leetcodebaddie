@@ -1,10 +1,10 @@
 {
-    "total": 16,
-    "Easy": 13,
+    "total": 17,
+    "Easy": 14,
     "Medium": 3,
     "Hard": 0,
     "streak": 1,
-    "last_date": "2026-08-05",
+    "last_date": "2026-08-11",
     "problems": [
         {
             "name": "142. Linked List Cycle II",
@@ -101,6 +101,12 @@
             "difficulty": "Easy",
             "file": "Easy/35._Search_Insert_Position.py",
             "timestamp": "2026-08-05 16:04"
+        },
+        {
+            "name": "146.che",
+            "difficulty": "Easy",
+            "file": "Easy/146.che.py",
+            "timestamp": "2026-08-11 22:00"
         }
     ]
 }
