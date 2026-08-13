@@ -19,3 +19,4 @@
 - 1475. Final Prices With a Special Discount in a Shop | Easy | 2026-08-05
 - 35. Search Insert Position | Easy | 2026-08-05
 - 146.che | Easy | 2026-08-11
+- 1672. Richest Customer Wealth | Easy | 2026-08-13
